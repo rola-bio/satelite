@@ -37,4 +37,8 @@ sample.ipynbの通りです。
 自分で閾値設定とかいりませんでしたら、EO browzerの方が使いやすいです。
 でも各バンドデータを組み合わせて色々したかったら、APIを使わないといけません。
 
+今回のファイルはほぼrasterioっていうパッケージで加工したものです。
+下のページを参考にしました。
+https://www.hatarilabs.com/ih-en/ndvi-calculation-from-landsat8-images-with-python-3-and-rasterio-tutorial
+
 ちなみにtellusの開発環境(jupyter lab)を申し込んで使えば、依存パッケージをわざわざインストールしなくてすみます。
